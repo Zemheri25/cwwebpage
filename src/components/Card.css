@@ -1,0 +1,11 @@
+.cards {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5rem;
+    min-height: 100vh;
+}
+
+p {
+    font-size: 1.5rem;
+}
+

@@ -1,0 +1,13 @@
+.html {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 2rem;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.img {
+    height: 10rem;
+    width: 10rem;
+}

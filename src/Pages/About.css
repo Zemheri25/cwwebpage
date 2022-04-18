@@ -1,0 +1,27 @@
+.about {
+  min-height: 100vh;
+  
+}
+
+.general {
+  display: flex;
+  width: 80%;
+  padding-top: 5rem;
+  margin: 0 auto;
+  
+}
+
+.left {
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+}
+
+.right {
+    height: 25rem;
+    margin-left: 2rem;
+    width: 30rem;
+    background-color : "#34424A";
+    border-radius: 10px;
+    
+}

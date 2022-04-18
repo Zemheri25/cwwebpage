@@ -1,0 +1,28 @@
+.input {
+    background-color: #35414A;
+    display: flex;
+    justify-content: space-around;
+    height: 8rem;
+    align-items: center;
+}
+
+.mail {
+    display: flex;
+    
+}
+
+.emailinput {
+    height: 2rem;
+    width: 20rem;
+}
+
+.subsbutton {
+    background-color: #E8491D;
+    color: white;
+    font-size: 1.5rem;
+    border: none;
+}
+
+.subs {
+    color: white;
+}

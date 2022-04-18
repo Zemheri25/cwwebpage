@@ -1,0 +1,26 @@
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    background-color: #34424A;
+    border-bottom: 5px solid #C48DB2;
+}
+
+.routes {
+    display: flex;
+    
+    width: 30rem;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.link {
+    font-size: 2rem;
+    text-decoration: none;
+    font-weight: 600;
+    color: white;
+}
+
+.h1 {
+    font-size: 3rem;
+}

@@ -1,0 +1,52 @@
+.services {
+    min-height: 100vh;
+}
+
+.main {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.right {
+    background-color: #34424A;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    width: 40rem;
+    margin-top: 4rem;
+    color: white;
+    padding: 1rem;
+}
+
+.left1 {
+    background-color: #E6E6E4;
+    color: black;
+    margin-top: 2rem;
+    justify-content: start;
+    box-shadow: 2px 2px 5px;
+}
+
+.input1 {
+    background-color: white;
+    height: 3rem;
+    font-size: 1rem;
+}
+
+.mybutton {
+    width: 10rem;
+    height: 3rem;
+    margin-top: 1rem;
+    background-color: #E8491D;
+    color: white;
+    border: none;
+    font-size: 2rem;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px white;
+    cursor: pointer;
+}
+
+label {
+    font-size: 1.5rem;
+}
